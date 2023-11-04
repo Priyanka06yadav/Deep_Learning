@@ -5,6 +5,6 @@
 2. Created a Multilayer Perceptron (MLP) model using tensorflow
 
 ### Project 2: Fake News Prediction Using Bidirectional LSTM
-1. Built DL model to predict whether the news is fake or not.
+1. Built DL based model to predict whether the news is fake or not.
 2. Performed text preprocessing and used word embedding technique to convert words into vector form.
 3. Used bidirectional LSTM for model training.
