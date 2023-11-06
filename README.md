@@ -11,3 +11,4 @@
 
 ### Project 3: Dog vs Cat Classification
 1. Built CNN model to classify image of dogs and cats.
+2. Performed data augmentation to avoid overfitting.
