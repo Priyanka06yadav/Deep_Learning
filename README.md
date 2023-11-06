@@ -8,3 +8,6 @@
 1. Built DL based model to predict whether the news is fake or not.
 2. Performed text preprocessing and used word embedding technique to convert words into vector form.
 3. Used bidirectional LSTM for model training.
+
+### Project 3: Dog vs Cat Classification
+1. Built CNN model to classify image of dogs and cats.
