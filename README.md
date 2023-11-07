@@ -14,4 +14,4 @@
 2. Performed data augmentation to avoid overfitting.
 
 ### Project 4: Image Classification Using CIFAR10 dataset
-1. Did image classification CIFAR10 dataset intp 10 categories using CNN model
+1. Classified CIFAR10 dataset into 10 categories using CNN model.
