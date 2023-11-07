@@ -12,3 +12,6 @@
 ### Project 3: Dog vs Cat Classification
 1. Built CNN model to classify image of dogs and cats.
 2. Performed data augmentation to avoid overfitting.
+
+### Project 4: Image Classification Using CIFAR10 dataset
+1. Did image classification CIFAR10 dataset intp 10 categories using CNN model
