@@ -19,3 +19,6 @@
 
 ### Project 5: Image Classification Using CIFAR10 dataset
 1. Classified CIFAR10 dataset into 10 categories using CNN model.
+
+### Project 6: Facial Emotion Recognition
+1.First trained on Facial Expression Recognition Dataset using CNN model and then it uses Opencv for getting access of webcamera and then prediction.
