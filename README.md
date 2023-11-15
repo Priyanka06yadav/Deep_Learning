@@ -5,10 +5,12 @@
 2. Created a Multilayer Perceptron (MLP) model using tensorflow
 
 ### Project 2: Brain tumor detection
-1. Performed transfer learning on VGG16 pretrainrd model to predict whether tumor is present or not by using MRI images.
+1. Performed transfer learning on VGG16 pretrained model to predict whether tumor is present or not by using MRI images.
 2. Conducted fine tuning and calculated accuracy.
 
-### Project 3: 
+### Project 3: Face mask and social distancing detection.
+1. Aimed to detect whether persons are maintaining social distancing and wearing face mask during covid-19 or not.
+2. Used image dataset and trained model on VGG19.
 
 ### Project 4: Image Sentiment Classifier
 1. Built DL based model to classify happy and sad images.
