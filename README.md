@@ -30,8 +30,8 @@
 2. Did text preprocessing, handled imbalanced dataset and performed Word2Vec conversion. 
 3. Used bidirectional LSTM for model development and calculated loss and accuracy for model evaluation
 
-### Project 7: Image Classification Using CIFAR10 dataset
+### Project 8: Image Classification Using CIFAR10 dataset
 1. Classified CIFAR10 dataset into 10 categories using CNN model.
 
-### Project 8: Facial Emotion Recognition
+### Project 9: Facial Emotion Recognition
 1.  First trained on Facial Expression Recognition Dataset using CNN model and then it uses Opencv for getting access of webcamera and then prediction.
