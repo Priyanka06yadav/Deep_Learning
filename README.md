@@ -25,6 +25,11 @@
 1. Built CNN model to classify image of dogs and cats.
 2. Performed data augmentation to avoid overfitting.
 
+### Project 7 : Hate Speech Detection
+1. Built an NLP-based Classification model to predict tweets as Hate Speech, Offensive Language, and Normal . 
+2. Did text preprocessing, handled imbalanced dataset and performed Word2Vec conversion. 
+3. Used bidirectional LSTM for model development and calculated loss and accuracy for model evaluation
+
 ### Project 7: Image Classification Using CIFAR10 dataset
 1. Classified CIFAR10 dataset into 10 categories using CNN model.
 
