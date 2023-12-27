@@ -34,4 +34,11 @@
 1. Classified CIFAR10 dataset into 10 categories using CNN model.
 
 ### Project 9: Facial Emotion Recognition
-1.  First trained on Facial Expression Recognition Dataset using CNN model and then it uses Opencv for getting access of webcamera and then prediction.
+1.  First trained on Facial Expression Recognition Dataset using CNN model and then uses Opencv for getting access of webcamera and making prediction.
+
+### Project 10: Blog Post Summarization using Transformer and Web Scrapping
+1. Used Hugging Face Transformer for summarizing Blog Post.
+2. Web Scrapped blog post using BeautifulSoup library.
+
+### Project 11: IMDB review using BERT
+1. Fine-tuned BERT model for performing sentiment analysis on IMDB dataset.
