@@ -42,3 +42,18 @@
 
 ### Project 11: IMDB review using BERT
 1. Fine-tuned BERT model for performing sentiment analysis on IMDB dataset.
+
+### Project 12: NLP with Disaster tweet using Bert
+1. Aimed to predict whether a given tweet is about a real disaster or not.
+2. Fine tune Bert model by freezing the base model and creating custom classifier.
+3. Achieved accuracy of 82% (approximate).
+
+### Project 13: Next Word Prediction using Bidirectional LSTM
+1. Used Medium dataset to perform next word prediction.
+2. Conducted model training using Bidirectional LSTM.
+
+### Project 14: E-commerce text classification.
+1. Objective was to classify text into 4 categories-Electronics,Household,Books, Clothing and accessories
+2. Fine tuned distilBert model using two different method:
+ a) freeze the base model and trained the standard classifier.
+ b) trained the base model and new added custom classifier.
