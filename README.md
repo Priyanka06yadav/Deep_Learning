@@ -57,3 +57,7 @@
 2. Fine tuned distilBert model using two different method:
  a) freeze the base model and trained the standard classifier.
  b) trained the base model and new added custom classifier.
+
+### Project 15: Yoga Pose Classification
+1. Classified 107 yoga poses using image dataset.
+2. Fine tuned various pretrained model and did comparative analysis.
